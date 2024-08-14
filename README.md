@@ -38,8 +38,8 @@ Open the index.html file in your preferred web browser to access the frontend of
 Login Credentials
 Log in using the provided credentials.
 
-Username : NITESH
-Password : NITESH
-For more detailed instructions on setting up the backend, database, and other configuration steps, refer to the backend repository.
+- Username : NITESH
+- Password : NITESH
+- For more detailed instructions on setting up the backend, database, and other configuration steps, refer to the backend repository.
 
 Thank you for using SunBase Assessment! If you encounter any issues or have suggestions, feel free to open an issue in the respective repository. Your feedback is valuable.
